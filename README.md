@@ -1,4 +1,4 @@
-# MyAppGoogleMapsTarea
-![image](https://github.com/DeiverGamboa04/MyAppGoogleMapsTarea/assets/135407018/095694e0-bb1a-429e-9708-7c9ecc060e09)
-![image](https://github.com/DeiverGamboa04/MyAppGoogleMapsTarea/assets/135407018/2f67e639-7eee-4a17-8ac2-57f88c7a0297)
+# GoogleTarea
+![image](https://github.com/Laroski/MyAppGoogleMapsTarea/assets/127622019/c06538c3-5da1-45eb-ae26-dfca8de2c7f3)
+
 
